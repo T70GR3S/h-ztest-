@@ -2,7 +2,7 @@ import requests
 import re
 import time
 import random
-from colorama import Fore, Back, Style 
+from colorama import Fore,  Style 
 
 
 def get(url):
